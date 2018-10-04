@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../Examples/MakeItRain/index.js"],"names":["AppRegistry","registerComponent","App"],"mappings":"AAAA,yCACA,0B,0HAEAA,yBAAYC,iBAAZ,CAA8B,YAA9B,CAA4C,iBAAMC,cAAN,EAA5C","file":"index.js","sourcesContent":["import { AppRegistry } from 'react-native';\nimport App from './App';\n\nAppRegistry.registerComponent('MakeItRain', () => App);\n"]}
